@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\passover\passover\bin\Debug\passover.exe.config
+C:\Users\USER\source\repos\passover\passover\bin\Debug\passover.exe
+C:\Users\USER\source\repos\passover\passover\bin\Debug\passover.pdb
+C:\Users\USER\source\repos\passover\passover\obj\Debug\passover.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\passover\passover\obj\Debug\passover.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\passover\passover\obj\Debug\passover.exe
+C:\Users\USER\source\repos\passover\passover\obj\Debug\passover.pdb
