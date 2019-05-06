@@ -1,0 +1,6 @@
+CREATE PROCEDURE INSERT_X_Y 
+@X_VALUE INT,
+@Y_VALUE INT
+AS
+INSERT INTO x(xvalue) values (@X_VALUE); 
+INSERT INTO y(yvalue) values (@Y_VALUE); 
